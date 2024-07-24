@@ -2218,14 +2218,20 @@ input, select, textarea {
 				margin-top: 0;
 			}
 
+			.labeled-icons li {
+				color: #ffffff;
+			}
+			
 			ul.labeled-icons li a {
 				color: inherit;
 			}
 
 			ul.labeled-icons li h3 {
-				color: #b2b2b2;
-				
-				padding-left: 30%;
+				color: #ffffff;
+				display: flex;
+				align-items: center;
+				justify-content: space-center;
+				padding-left: 40%;
 			}
 
 /* Actions */
@@ -2630,6 +2636,7 @@ input, select, textarea {
 			margin: 0 0 1em 0;
 			width: 6.25em;
 		}
+
 
 /* Main */
 
