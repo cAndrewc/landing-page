@@ -2023,6 +2023,7 @@ input, select, textarea {
 
 			ul.icons li .icon:before {
 				font-size: 1.5em;
+				margin-right: 10px;
 			}
 
 /* Labeled Icons */
@@ -2048,7 +2049,7 @@ input, select, textarea {
 				display: flex;
 				align-items: start;
 				font-size: 20px;
-				padding-left: 40%;
+				padding-left: 45%;
 			}
 
 /* Actions */
@@ -2452,6 +2453,12 @@ input, select, textarea {
 		#header .image.avatar {
 			margin: 0 0 1em 0;
 			width: 6.25em;
+		}
+
+		#header li.info {
+			list-style-type: none;
+			font-size: 15px;
+			
 		}
 
 
